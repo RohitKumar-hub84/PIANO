@@ -7,8 +7,8 @@ Features:-
                         The layout is designed to be simple and easy to use.               
     
         Responsive Design: The piano is designed to be responsive, ensuring it works well on various screen sizes, from desktops to mobile devices. 
-        JavaScript Logic: The core functionality of the piano, including handling mouse button clicks and performing different sound is implemented in JavaScript. This demonstrates the power of JavaScript in 
-        creating dynamic and interactive web applications. 
+        JavaScript Logic: The core functionality of the piano, including handling mouse button clicks and performing different sound is implemented in JavaScript. 
+        This demonstrates the power of JavaScript in creating dynamic and interactive web applications. 
                           
 Technologies Used:-
              HTML: Provides the structural framework for the piano, defining the layout and elements. 
